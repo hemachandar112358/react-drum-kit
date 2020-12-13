@@ -3,7 +3,7 @@
 ## Press the keys on keyboard or click on them make some sound
 
 
-Live Demo: [Drum Kit](https://nifty-wiles-f67e2a.netlify.app/)
+Live Demo: [Drum Kit](https://react-drums-kit.netlify.app/)
 
 
 
